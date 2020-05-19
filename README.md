@@ -1,5 +1,5 @@
 # buid-tree-exercise
-One of the test tasks with an interesting algorithm by creation tree structure 
+The test tasks with an interesting algorithm by creation tree structure 
 
 Write a function that builds a tree using a list of id pairs (parent id, descendant id),
 where None is the id of the root node.
